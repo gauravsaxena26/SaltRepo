@@ -1,0 +1,2 @@
+# SaltRepo
+My Salt repository
